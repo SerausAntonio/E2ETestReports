@@ -59,18 +59,10 @@
 <testFailureIgnore> false </testFailureIgnore>
 
 <suiteXmlFiles>
-<suiteXmlFile>D:\Users\Antonio Seraus\workspace\advance-reporting\reporting\testng.xml</suiteXmlFile>
+<suiteXmlFile>testng.xml</suiteXmlFile>
 </suiteXmlFiles>
 </configuration>
 </plugin>
 </plugins>
-<testResources>
-<testResource>
-<directory>src/test/resources/properties</directory>
-<includes>
-<include>log4j.properties</include>
-</includes>
-</testResource>
-</testResources>
 </build>
 </project>
